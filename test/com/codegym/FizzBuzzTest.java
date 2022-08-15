@@ -12,7 +12,7 @@ class FizzBuzzTest {
         String expected = "Fizz";
 
         String result = FizzBuzz.fizzBuzz(number);
-        assertEquals(expected, result);
+        assertEquals(expected, result);sdfasf
     }
 
     @Test
